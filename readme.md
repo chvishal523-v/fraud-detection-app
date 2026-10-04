@@ -3,7 +3,7 @@
 A web app that checks a bank transaction, predicts whether it is **fraud or not fraud**, shows a **fraud probability**, and uses **Google Gemini** to explain the result in plain language.
 
 🔗 **Live demo:** 
-https://bankfraud.streamlit.app/ 
+- https://bankfraud.streamlit.app/ 
 ---
 
 ## ✨ Features
