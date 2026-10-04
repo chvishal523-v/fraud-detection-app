@@ -6,7 +6,7 @@ from google import genai
 # ---------- Page setup ----------
 st.set_page_config(page_title="Fraud Detection", page_icon="🛡️", layout="wide")
 
-GEMINI_MODEL = "Gemini 3.1 Flash Lite Preview"  # change here if you want another Gemini model
+GEMINI_MODEL = "Gemini 2.5 Flash"  # change here if you want another Gemini model
 
 
 @st.cache_resource
